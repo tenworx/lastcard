@@ -5,7 +5,6 @@
 // ignore_for_file: public_member_api_docs, use_build_context_synchronously
 
 import 'dart:async';
-import 'dart:convert';
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:webview_flutter_upload/webview_flutter.dart';
